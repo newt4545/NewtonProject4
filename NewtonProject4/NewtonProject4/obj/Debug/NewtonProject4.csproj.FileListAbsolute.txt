@@ -3,10 +3,10 @@ C:\Users\Adam\source\repos\NewtonProject4\NewtonProject4\bin\Debug\StudentCourse
 C:\Users\Adam\source\repos\NewtonProject4\NewtonProject4\bin\Debug\NewtonProject4.exe.config
 C:\Users\Adam\source\repos\NewtonProject4\NewtonProject4\bin\Debug\NewtonProject4.exe
 C:\Users\Adam\source\repos\NewtonProject4\NewtonProject4\bin\Debug\NewtonProject4.pdb
+C:\Users\Adam\source\repos\NewtonProject4\NewtonProject4\obj\Debug\NewtonProject4.csprojAssemblyReference.cache
 C:\Users\Adam\source\repos\NewtonProject4\NewtonProject4\obj\Debug\NewtonProject4.CourseForm.resources
 C:\Users\Adam\source\repos\NewtonProject4\NewtonProject4\obj\Debug\NewtonProject4.Properties.Resources.resources
 C:\Users\Adam\source\repos\NewtonProject4\NewtonProject4\obj\Debug\NewtonProject4.csproj.GenerateResource.cache
 C:\Users\Adam\source\repos\NewtonProject4\NewtonProject4\obj\Debug\NewtonProject4.csproj.CoreCompileInputs.cache
 C:\Users\Adam\source\repos\NewtonProject4\NewtonProject4\obj\Debug\NewtonProject4.exe
 C:\Users\Adam\source\repos\NewtonProject4\NewtonProject4\obj\Debug\NewtonProject4.pdb
-C:\Users\Adam\source\repos\NewtonProject4\NewtonProject4\obj\Debug\NewtonProject4.csprojAssemblyReference.cache
